@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "Koala": "koala-films",
+    "default": "koala-films",
+    "staging": "koala-films"
+  }
+}
